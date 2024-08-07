@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8" ?>
 
 <!--********************************************************************
 Copyright 2022 Dan Margalit and Joseph Rabinoff
@@ -11,13 +11,13 @@ the license is included in gfdl.xml.
 
 <frontmatter xml:id="index" xmlns:xi="http://www.w3.org/2001/XInclude">
 
-  <title>Interactive Linear Algebra</title>
+  <title>Interactive Linear Algebra: Vanderbilt Edition</title>
 
   <titlepage>
     <author>
       <personname>Dan Margalit</personname>
-      <department>School of Mathematics</department>
-      <institution>Georgia Institute of Technology</institution>
+      <department>Department of Mathematics</department>
+      <institution>Vanderbilt University</institution>
       <!-- <email>dmargalit7@math.gatech.edu</email> -->
     </author>
     <author>
@@ -31,7 +31,7 @@ the license is included in gfdl.xml.
   </titlepage>
 
   <colophon>
-    <edition>Duke University</edition>
+    <edition>Vanderbilt University</edition>
 
     <copyright>
       <year>2022</year>
@@ -65,9 +65,9 @@ the license is included in gfdl.xml.
     <contributors>
       <contributor xml:id="dan">
         <personname>Dan Margalit</personname>
-        <department>School of Mathematics</department>
-        <institution>Georgia Institute of Technology</institution>
-        <email>dmargalit7@math.gatech.edu</email>
+        <department>Department of Mathematics</department>
+        <institution>Vanderbilt University</institution>
+        <email>dan.margalit@vanderbilt.edu</email>
       </contributor>
 
       <contributor xml:id="jdr">
@@ -103,7 +103,7 @@ the license is included in gfdl.xml.
       There are several variants of this textbook available.
       <ul>
         <li>
-          You are viewing the Duke Edition of this book.  This edition grew out of the Georgia Tech Edition, but was largely rewritten by Rabinoff for use as in Math 218D-1 at Duke University.
+          You are viewing the Vanderbilt Edition of this book.  This edition grew out of the Georgia Tech Edition, but was largely rewritten by Rabinoff for use as in Math 218D-1 at Duke University.
         </li>
         <li>
           The <url href="https://textbooks.math.gatech.edu/ila/">Georgia Tech Edition</url> has material on linear transformations and similar matrices, but does not cover the SVD or PCA.  It was designed for use as the textbook for Math 1553 at the Georgia Institute of Technology.
